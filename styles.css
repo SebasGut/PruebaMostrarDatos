@@ -1,0 +1,22 @@
+table td{
+    border: solid 1px black;
+    padding: 3px;
+    background-color: beige;
+}
+
+table th {
+    border: solid 2px black;
+    padding: 2px;
+    background-color: beige;
+    font-size: 20px;
+}
+
+.contenedor_tabla{
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+}
+
+body{
+    background-color: #5d58d7;
+}
