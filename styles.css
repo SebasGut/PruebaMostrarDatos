@@ -13,10 +13,15 @@ table th {
 
 .contenedor_tabla{
     text-align: center;
-    max-width: 800px;
+    max-width: 900px;
     margin: auto;
 }
 
 body{
     background-color: #8ab3cf;
+    align-items: center;
+}
+
+#data-table{
+    margin: auto;
 }
