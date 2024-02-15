@@ -7,13 +7,13 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-database.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDKmNmssV1e5NPDEtV8bVKG3Bsowdo8BEo",
-  authDomain: "prueba-formulario-200af.firebaseapp.com",
-  databaseURL: "https://prueba-formulario-200af-default-rtdb.firebaseio.com",
-  projectId: "prueba-formulario-200af",
-  storageBucket: "prueba-formulario-200af.appspot.com",
-  messagingSenderId: "860223876992",
-  appId: "1:860223876992:web:676ace38eaac7f7c445b65",
+    apiKey: "AIzaSyC4MsMnwyJ8TN-OPOpWusW9nQdahCE3AWg",
+    authDomain: "prub-d6eca.firebaseapp.com",
+    databaseURL: "https://prub-d6eca-default-rtdb.firebaseio.com",
+    projectId: "prub-d6eca",
+    storageBucket: "prub-d6eca.appspot.com",
+    messagingSenderId: "769917956022",
+    appId: "1:769917956022:web:c064e44e708db676b29b17"
 };
 
 const app = initializeApp(firebaseConfig);
